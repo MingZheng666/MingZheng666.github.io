@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
+CCTV13 https://s4-l2.dnvodcdn.me/edge/yourchannel4/chunklist.m3u8?dnvodendtime=1702193745&dnvodhash=aUUP7iqwa7oKpxK2bNATucXcWwZIzozqyPHxziJH064=&dnvodCustomParameter=128662643_99.240.122.53.CA_1&lb=da2da3653754a516ecae7e52ac113507&us=1&vv=947f9d3553bc85d3e11d52a3c61d33c0&pub=CJSmCZ0oC3amCoumDJDVGq5VEJakCZGmBZ4oCYurCryOCRAQCZ6PcXmRcB2Q69WmiJAPCXaRiXkO7B6OinoSCAzD3CpDsOoPZ4nC34pOZbaC3PXE6KqOZ5aDp8nCJ0qP35
